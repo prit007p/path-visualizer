@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <div className='footer'>
         <p>
-          Made with <span style={{color: "red"}}>&#10084;</span> by Kunal Singh Shekhawat.
+          Made with <span style={{color: "red"}}>&#10084;</span> by Himanshu Goyal.
         </p>
     </div>
   )
